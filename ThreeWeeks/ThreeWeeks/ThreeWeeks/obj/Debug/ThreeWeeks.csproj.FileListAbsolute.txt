@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\bin\Debug\ThreeWeeks.exe.config
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\bin\Debug\ThreeWeeks.exe
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\bin\Debug\ThreeWeeks.pdb
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form1.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.exe
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.pdb
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form2.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form3.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form4.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form5.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form6.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form7.resources
+C:\Users\Administrator\Desktop\ThreeWeeks\ThreeWeeks\ThreeWeeks\obj\Debug\ThreeWeeks.Form8.resources
