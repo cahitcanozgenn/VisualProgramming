@@ -37,5 +37,15 @@ namespace FourWeeks
             //int say = listBox1.Items.Count;
             label3.Text = Convert.ToString(listBox1.Items.Count);
         }
+
+        private void çıkışToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
