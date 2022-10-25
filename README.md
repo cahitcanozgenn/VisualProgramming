@@ -19,11 +19,18 @@ yüzde seçilirse program uyarı veriyor.
 **4.Hafta**
 25.10.2022
 - İki adet textboxa ad ve soyad bilgileri girilerek bu bilgiler ekle butonu ile listboxa ekleniyor.
+
 - Sil butonu ile listboxta seçilen veri siliniyor.
+
 - Temizle butonuna basıldığı zaman listboxta bulunan bütün veriler siliniyor.
+
 - Say butonuna tıklanıldığı zaman listboxtaki veri sayısını label'e yazdırıyor.
+
 - Inputbox butonu eklenildi ve messagebox olarak gelen textboxta veri girilip girilen veri yeni bir messageboxta açıldı. Bunu eklemek için referanslardan VisualBasic seçilmelidir. Aksi taktirde hata fırlatacaktır.
+
 - Yes/No butonu eklendi. Butona tıklanınca uygulamayı kapatıp kapatmayacağımızı seçiyoruz. Evet butonuna tıklayınca uygulama kapanıyor. Hayır butonuna tıklayınca program hiçbir şey yapmıyor. MessageBoxta extra olarak Error ikonu eklendi.
+
 - OK-Cancel butonı eklendi. Butona basılınca messagebox açılıyor ve ekranda Evet-Hayır-İptal butonları çıkıyor. Evet butonuna basınca uygulamayı kapatıyor. Hayır butonuna basılınca program "Uygulama Kapatılmadı" diye mesaj veriyor ve devam ediyor. İptal butonuna basılınca program devam ediyor.
+
 - AbortRetryIgnore butonu eklendi. Bu butona basılınca "Durdur-Yeniden dene-Yoksay" butonları ile birlikte messagebox geliyor. Durdur butonuna basılınca program kapanıyor. Yeniden dene butonuna basınca program AbortRetryIgnore butonuna geri dönüyor. Yoksay butonuna basınca bir şey yapmadan devam ediyor.
 
