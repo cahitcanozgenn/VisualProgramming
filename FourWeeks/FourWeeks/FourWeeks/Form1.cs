@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,7 @@ namespace FourWeeks
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox1.Text + textBox2.Text);
+            listBox1.Items.Add(textBox1.Text  +" "+ textBox2.Text);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -35,7 +36,10 @@ namespace FourWeeks
         private void button4_Click(object sender, EventArgs e)
         {
             //int say = listBox1.Items.Count;
-            label3.Text = Convert.ToString(listBox1.Items.Count);
+            //label3.Text = Convert.ToString(listBox1.Items.Count);
+            MessageBox.Show(label3.Text = Convert.ToString(listBox1.Items.Count));
+
+          
         }
 
         private void çıkışToolStripMenuItem_Click(object sender, EventArgs e)
@@ -45,6 +49,13 @@ namespace FourWeeks
 
         private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
         {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            string message = Interaction.InputBox("Adınızı Giriniz:", "Veri Alma");
+            MessageBox.Show(message,"Gelen Mesaj");// (Mesaj,Pencere Başlığı)
 
         }
     }
