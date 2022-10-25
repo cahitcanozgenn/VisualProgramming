@@ -58,5 +58,19 @@ namespace FourWeeks
             MessageBox.Show(message,"Gelen Mesaj");// (Mesaj,Pencere Başlığı)
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            DialogResult result1 = MessageBox.Show("Uygulamayı kapatmaya eminmisin?",
+ "Uygulama Çıkış", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
+            if (result1 == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            else
+            {
+                
+            }
+        }
     }
 }

@@ -23,4 +23,5 @@ yüzde seçilirse program uyarı veriyor.
 - Temizle butonuna basıldığı zaman listboxta bulunan bütün veriler siliniyor.
 - Say butonuna tıklanıldığı zaman listboxtaki veri sayısını label'e yazdırıyor.
 - Inputbox butonu eklenildi ve messagebox olarak gelen textboxta veri girilip girilen veri yeni bir messageboxta açıldı. Bunu eklemek için referanslardan VisualBasic seçilmelidir. Aksi taktirde hata fırlatacaktır.
+- Yes/No butonu eklendi. Butona tıklanınca uygulamayı kapatıp kapatmayacağımızı seçiyoruz. Evet butonuna tıklayınca uygulama kapanıyor. Hayır butonuna tıklayınca program hiçbir şey yapmıyor. MessageBoxta extra olarak Error ikonu eklendi.
 
