@@ -72,5 +72,41 @@ namespace FourWeeks
                 
             }
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            DialogResult result2 = MessageBox.Show("Uygulamayı Kapatmak İstiyor Musun?", "Sistem Mesajı", MessageBoxButtons.YesNoCancel);
+            if (result2 == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            else if (result2 == DialogResult.No)
+            {
+                MessageBox.Show("Uygulama Kapatılmadı.");
+            }
+            else if (result2 == DialogResult.Cancel)
+            {
+
+            }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            git:
+            DialogResult result4 = MessageBox.Show("Mesaj", "Başlık",
+MessageBoxButtons.AbortRetryIgnore,MessageBoxIcon.Warning);
+            if (result4 == DialogResult.Abort)
+            {
+                Application.Exit();
+            }
+            else if (result4 == DialogResult.Retry)
+            {
+                goto git;
+            }
+            else
+            {
+
+            }
+        }
     }
 }
