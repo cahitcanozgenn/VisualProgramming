@@ -22,4 +22,5 @@ yüzde seçilirse program uyarı veriyor.
 - Sil butonu ile listboxta seçilen veri siliniyor.
 - Temizle butonuna basıldığı zaman listboxta bulunan bütün veriler siliniyor.
 - Say butonuna tıklanıldığı zaman listboxtaki veri sayısını label'e yazdırıyor.
+- Inputbox butonu eklenildi ve messagebox olarak gelen textboxta veri girilip girilen veri yeni bir messageboxta açıldı.
 
