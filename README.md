@@ -33,4 +33,4 @@ yüzde seçilirse program uyarı veriyor.
 - OK-Cancel butonı eklendi. Butona basılınca messagebox açılıyor ve ekranda Evet-Hayır-İptal butonları çıkıyor. Evet butonuna basınca uygulamayı kapatıyor. Hayır butonuna basılınca program "Uygulama Kapatılmadı" diye mesaj veriyor ve devam ediyor. İptal butonuna basılınca program devam ediyor.
 
 - AbortRetryIgnore butonu eklendi. Bu butona basılınca "Durdur-Yeniden dene-Yoksay" butonları ile birlikte messagebox geliyor. Durdur butonuna basılınca program kapanıyor. Yeniden dene butonuna basınca program AbortRetryIgnore butonuna geri dönüyor. Yoksay butonuna basınca bir şey yapmadan devam ediyor.
-
+----------------------------------------------------------------------------------------------------------
