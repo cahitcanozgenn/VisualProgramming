@@ -1,4 +1,4 @@
-# VisualProgramming
+# VisualProgramming- Görsel Programlama I
 **3.Hafta**
 18.10.2022
 - Kullanıcı Adı ve Şifre ile sisteme giriş yapılıyor.
