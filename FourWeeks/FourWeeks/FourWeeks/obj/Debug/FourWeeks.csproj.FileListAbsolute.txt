@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\bin\Debug\FourWeeks.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\bin\Debug\FourWeeks.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\bin\Debug\FourWeeks.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\FourWeeks\FourWeeks\FourWeeks\obj\Debug\FourWeeks.pdb
