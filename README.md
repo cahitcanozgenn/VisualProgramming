@@ -16,4 +16,10 @@ yüzde seçilirse program uyarı veriyor.
 - Dashboard sayfasında sağ tıklama yapılınca uygulama kapatılabiliyor.
 - Giriş ve Dashboard sayfası hariç diğer sayfalarda çıkış ve geri sayfaları bulunmaktadır.
 ----------------------------------------------------------------------------------------------------------
+**4.Hafta**
+25.10.2022
+- İki adet textboxa ad ve soyad bilgileri girilerek bu bilgiler ekle butonu ile listboxa ekleniyor.
+- Sil butonu ile listboxta seçilen veri siliniyor.
+- Temizle butonuna basıldığı zaman listboxta bulunan bütün veriler siliniyor.
+- Say butonuna tıklanıldığı zaman listboxtaki veri sayısını label'e yazdırıyor.
 
