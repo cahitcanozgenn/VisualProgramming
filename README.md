@@ -34,3 +34,6 @@ yüzde seçilirse program uyarı veriyor.
 
 - AbortRetryIgnore butonu eklendi. Bu butona basılınca "Durdur-Yeniden dene-Yoksay" butonları ile birlikte messagebox geliyor. Durdur butonuna basılınca program kapanıyor. Yeniden dene butonuna basınca program AbortRetryIgnore butonuna geri dönüyor. Yoksay butonuna basınca bir şey yapmadan devam ediyor.
 ----------------------------------------------------------------------------------------------------------
+**5.Hafta**
+01.11.2022
+- Ekran bir tane buton eklenildi. Butona basılınca Evet-Hayır-İptal butonları geliyor. Evete basılınca uygulama kapatılıyor. Hayıra basılınca uygulama kapatılmadı diyor. İptale basılınca hiçbir şey yapılamadı diyor.
