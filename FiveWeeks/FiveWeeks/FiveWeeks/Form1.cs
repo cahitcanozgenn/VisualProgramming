@@ -49,5 +49,21 @@ namespace FiveWeeks
             save.Title = "Dosya Kaydet"; // üst kısım.
             save.ShowDialog(); // diyalog gösterildi.
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ColorDialog color = new ColorDialog();
+            color.ShowDialog();
+            label1.ForeColor = color.Color;
+            
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ColorDialog color = new ColorDialog();
+            color.ShowDialog();
+            this.BackColor = color.Color;
+           
+        }
     }
 }

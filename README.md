@@ -39,3 +39,5 @@ yüzde seçilirse program uyarı veriyor.
 - Ekran bir tane buton eklenildi. Butona basılınca Evet-Hayır-İptal butonları geliyor. Evete basılınca uygulama kapatılıyor. Hayıra basılınca uygulama kapatılmadı diyor. İptale basılınca hiçbir şey yapılamadı diyor.
 - Dosya Aç butonu eklendi. Butona basılınca dosya ekleyebiliyoruz. Ekldediğimiz dosyanın yolu textboxta yazmaktadır.
 - Kaydet butonu eklenildi. Butona basılınca kaydetme diyaloğu açılıyor.
+- Renk butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre label'in rengi değişiyor.
+- Arka butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre arka plan rengi değişiyor.
