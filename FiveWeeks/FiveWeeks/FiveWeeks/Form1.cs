@@ -68,8 +68,19 @@ namespace FiveWeeks
 
         private void button6_Click(object sender, EventArgs e)
         {
-            folderBrowserDialog1.ShowDialog();
-            textBox2.Text = folderBrowserDialog1.SelectedPath;
+            folderBrowserDialog1.ShowDialog(); // diyalog gösterildi.
+            textBox2.Text = folderBrowserDialog1.SelectedPath; // dosya yolu textboxa aktarıldı.
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            FontDialog font = new FontDialog();
+            font.ShowColor = true; // renk özelliği aktif edildi.
+            font.ShowDialog(); // dialog gösterildi.
+            font.MaxSize = 50; // maximum yazı boyutu 50 yapıldı.
+            font.MinSize = 15; // minimum yazı boyutu 15 yapıldı.
+            label2.Font = font.Font;
+            label2.ForeColor = font.Color;
         }
     }
 }
