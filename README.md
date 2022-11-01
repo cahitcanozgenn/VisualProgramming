@@ -45,7 +45,7 @@ yüzde seçilirse program uyarı veriyor.
 
 **5.Hafta-Ödev**
 01.11.2022
-- Textboxa yazı yazılabilecek.
+- Textboxa yazı yazılabilecek. ( Tab tuşu ile girinti verilebilecek. )
 - Kaydet deyince txt olarak kaydedilicek.
 - Klasör oluştur diyince klasör oluşturulabilecek.
 - Aç diyince aktaracak
