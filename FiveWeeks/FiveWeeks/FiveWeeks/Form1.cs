@@ -65,5 +65,11 @@ namespace FiveWeeks
             this.BackColor = color.Color;
            
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            folderBrowserDialog1.ShowDialog();
+            textBox2.Text = folderBrowserDialog1.SelectedPath;
+        }
     }
 }

@@ -41,3 +41,4 @@ yüzde seçilirse program uyarı veriyor.
 - Kaydet butonu eklenildi. Butona basılınca kaydetme diyaloğu açılıyor.
 - Renk butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre label'in rengi değişiyor.
 - Arka butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre arka plan rengi değişiyor.
+- Folder butonu eklendi. Butona basıldığı zaman klasör seçme diyaloğu açılıyor. Klasör seçtiğimiz zaman seçilen klasör yolu textboxta yazıyor.
