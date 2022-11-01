@@ -33,5 +33,14 @@ namespace FiveWeeks
                 MessageBox.Show("Hiçbir Şey Yapılmadı");
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Title = "Dosya Seçiniz";
+            openFileDialog1.InitialDirectory = "C:\\";
+            openFileDialog1.ShowDialog();
+            textBox1.Text = openFileDialog1.FileName;
+            
+        }
     }
 }
