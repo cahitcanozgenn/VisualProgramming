@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\bin\Debug\FiveWeeks.exe.config
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\bin\Debug\FiveWeeks.exe
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\bin\Debug\FiveWeeks.pdb
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.Form1.resources
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.exe
+C:\Users\Administrator\Desktop\FiveWeeks\FiveWeeks\obj\Debug\FiveWeeks.pdb
