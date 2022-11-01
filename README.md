@@ -38,3 +38,4 @@ yüzde seçilirse program uyarı veriyor.
 01.11.2022
 - Ekran bir tane buton eklenildi. Butona basılınca Evet-Hayır-İptal butonları geliyor. Evete basılınca uygulama kapatılıyor. Hayıra basılınca uygulama kapatılmadı diyor. İptale basılınca hiçbir şey yapılamadı diyor.
 - Dosya Aç butonu eklendi. Butona basılınca dosya ekleyebiliyoruz. Ekldediğimiz dosyanın yolu textboxta yazmaktadır.
+- Kaydet butonu eklenildi. Butona basılınca kaydetme diyaloğu açılıyor.

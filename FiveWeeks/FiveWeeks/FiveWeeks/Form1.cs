@@ -36,11 +36,18 @@ namespace FiveWeeks
 
         private void button2_Click(object sender, EventArgs e)
         {
-            openFileDialog1.Title = "Dosya Seçiniz";
-            openFileDialog1.InitialDirectory = "C:\\";
-            openFileDialog1.ShowDialog();
+            openFileDialog1.Title = "Dosya Seçiniz"; // üst kısım
+            openFileDialog1.InitialDirectory = "C:\\"; // dizin
+            openFileDialog1.ShowDialog(); // diyoloğun açılması
             textBox1.Text = openFileDialog1.FileName;
             
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog save = new SaveFileDialog(); // yeni bir nesne oluşturuldu.
+            save.Title = "Dosya Kaydet"; // üst kısım.
+            save.ShowDialog(); // diyalog gösterildi.
         }
     }
 }
