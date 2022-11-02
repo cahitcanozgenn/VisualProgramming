@@ -44,9 +44,10 @@ yüzde seçilirse program uyarı veriyor.
 - Folder butonu eklendi. Butona basıldığı zaman klasör seçme diyaloğu açılıyor. Klasör seçtiğimiz zaman seçilen klasör yolu textboxta yazıyor.
 
 **5.Hafta-Ödev**
-01.11.2022
+01.11.2022 (Notebook)
 - Textboxa yazı yazılabilecek. ( Tab tuşu ile girinti verilebilecek. )
 - Kaydet deyince txt olarak kaydedilicek.
 - Klasör oluştur diyince klasör oluşturulabilecek.
 - Aç diyince aktaracak
 - Yazı tipi, yazı rengi değişecek.
+----------------------------------------------------------------------------------------------------------
