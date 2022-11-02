@@ -42,7 +42,7 @@ yüzde seçilirse program uyarı veriyor.
 - Renk butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre label'in rengi değişiyor.
 - Arka butonu eklendi. Butona basılınca color dialog açılıyor ve seçilen renge göre arka plan rengi değişiyor.
 - Folder butonu eklendi. Butona basıldığı zaman klasör seçme diyaloğu açılıyor. Klasör seçtiğimiz zaman seçilen klasör yolu textboxta yazıyor.
-
+----------------------------------------------------------------------------------------------------------
 **5.Hafta-Ödev**
 01.11.2022 (Notebook)
 - Textboxa yazı yazılabilecek. ( Tab tuşu ile girinti verilebilecek. )
