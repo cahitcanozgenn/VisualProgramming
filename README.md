@@ -57,4 +57,6 @@ yüzde seçilirse program uyarı veriyor.
 - Oluştur butonuna basıldığı zaman bir tane linklabel oluşturuyor.
 - Birinci textbox linklabelin adını, ikinci textbox ise linklabelin yolunu belirliyor.
 - Form ilk açıldığında ekranın merkezinde açılıyor.(CenterScreen)
-- Form'u küçültüp büyütme özelliği pasif durumdadır.----------------------------------------------------------------------------------------------------------
+- Form'u küçültüp büyütme özelliği pasif durumdadır.
+
+----------------------------------------------------------------------------------------------------------
