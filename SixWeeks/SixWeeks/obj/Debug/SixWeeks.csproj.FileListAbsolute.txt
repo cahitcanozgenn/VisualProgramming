@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\bin\Debug\SixWeeks.exe.config
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\bin\Debug\SixWeeks.exe
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\bin\Debug\SixWeeks.pdb
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.Form1.resources
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.exe
+C:\Users\Administrator\Desktop\SixWeeks\SixWeeks\obj\Debug\SixWeeks.pdb

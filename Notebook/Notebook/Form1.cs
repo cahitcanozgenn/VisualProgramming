@@ -30,15 +30,15 @@ namespace Notebook
             font.ShowDialog(); 
             font.MaxSize = 100; 
             font.MinSize = 5;
-            textBox1.Font = font.Font;
-            textBox1.ForeColor = font.Color;
+            richTextBox1.Font = font.Font;
+            richTextBox1.ForeColor = font.Color;
         }
 
         private void yazıRengiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ColorDialog color = new ColorDialog();
             color.ShowDialog();
-            textBox1.ForeColor = color.Color;
+            richTextBox1.ForeColor = color.Color;
         }
 
         private void kaydetToolStripMenuItem_Click(object sender, EventArgs e)
@@ -53,26 +53,32 @@ namespace Notebook
             if (save.ShowDialog() == DialogResult.OK)
             {
                 StreamWriter add = new StreamWriter(save.FileName);
-                add.WriteLine(textBox1.Text);
+                add.WriteLine(richTextBox1.Text);
                 add.Close();
             }
         }
-
+        OpenFileDialog open = new OpenFileDialog();
+        string textKayit = "";
         private void açToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog file = new OpenFileDialog();
 
-            if (file.ShowDialog() == DialogResult.OK)
+
+            open.Filter = "Metin Dosyaları (*.txt) |*.txt|Tüm Dosyalar|*.*";
+            if (open.ShowDialog() == DialogResult.OK)
             {
-                FileInfo fi = new FileInfo(file.FileName);
-                if (fi.Exists)
-                {
-                    System.Diagnostics.Process.Start(file.FileName);
-                }
-                else 
-                {
-                   //
-                }
+                StreamReader okur = new StreamReader(open.FileName, Encoding.Default);
+                if (okur.EndOfStream)           //açılan dosyanın içi boş...
+                    richTextBox1.Text = "";
+                else                            //açılan dosyanın içi dolu
+                    while (!okur.EndOfStream)
+                    {
+                        string text = okur.ReadToEnd();
+                        richTextBox1.Text = text;
+                    }
+                textKayit = richTextBox1.Text;
+                okur.Close();
+                FileInfo dosyaBilgi = new FileInfo(open.FileName);
+                this.Text = dosyaBilgi.Name + " - Cahit";
             }
         }
 
@@ -84,23 +90,37 @@ namespace Notebook
 
         private void kesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(textBox1.Text);
-            textBox1.Clear();
+            richTextBox1.Cut();
         }
 
         private void kopyalaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(textBox1.Text);
+            richTextBox1.Copy();
         }
 
         private void yapıştırToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            textBox1.Text = Clipboard.GetText();
+            richTextBox1.Paste();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Cahit Can ÖZGEN");
+        }
+
+        private void yazıTipiToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FontDialog font = new FontDialog();
+            font.ShowDialog();
+            richTextBox1.SelectionFont = font.Font;
+          
+        }
+
+        private void yazıRengiToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            ColorDialog color = new ColorDialog();
+            color.ShowDialog();
+            richTextBox1.SelectionColor = color.Color;
         }
     }
 }

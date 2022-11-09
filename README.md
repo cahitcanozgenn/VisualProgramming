@@ -44,10 +44,17 @@ yüzde seçilirse program uyarı veriyor.
 - Folder butonu eklendi. Butona basıldığı zaman klasör seçme diyaloğu açılıyor. Klasör seçtiğimiz zaman seçilen klasör yolu textboxta yazıyor.
 ----------------------------------------------------------------------------------------------------------
 **5.Hafta-Ödev**
-01.11.2022 (Notebook)
+01.11.2022 (Notepad)
 - Textboxa yazı yazılabilecek. ( Tab tuşu ile girinti verilebilecek. )
 - Kaydet deyince txt olarak kaydedilicek.
 - Klasör oluştur diyince klasör oluşturulabilecek.
 - Aç diyince aktaracak
 - Yazı tipi, yazı rengi değişecek.
 ----------------------------------------------------------------------------------------------------------
+**6.Hafta**
+08.11.2022
+- Form ekranına iki adet textbox, bir adet buton, bir adet linklabel ve iki adet label eklendi.
+- Oluştur butonuna basıldığı zaman bir tane linklabel oluşturuyor.
+- Birinci textbox linklabelin adını, ikinci textbox ise linklabelin yolunu belirliyor.
+- Form ilk açıldığında ekranın merkezinde açılıyor.(CenterScreen)
+- Form'u küçültüp büyütme özelliği pasif durumdadır.----------------------------------------------------------------------------------------------------------
