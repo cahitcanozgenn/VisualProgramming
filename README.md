@@ -59,7 +59,7 @@ yüzde seçilirse program uyarı veriyor.
 - Form ilk açıldığında ekranın merkezinde açılıyor.(CenterScreen)
 - Form'u küçültüp büyütme özelliği pasif durumdadır.
 
-**DİCE GAME**
+**DİCE GAME- ZAR OYUNU**
 - Oyun ilk açılışında 1.Oyuncu ve 2.Oyuncu ismi istenilmektedir.
 - Oyuna başlanıldığında sıra ile zar atılacak ve en büyük atan kim ise messagebox ile mesaj verilecek.
 - Temizle butonuna tıklanıldığı zaman skorlar temizlenmektedir
