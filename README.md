@@ -65,3 +65,5 @@ yüzde seçilirse program uyarı veriyor.
 - Temizle butonuna tıklanıldığı zaman skorlar temizlenmektedir.
 
 ----------------------------------------------------------------------------------------------------------
+**7.Hafta**
+15.11.2022
