@@ -62,6 +62,6 @@ yüzde seçilirse program uyarı veriyor.
 **DİCE GAME- ZAR OYUNU**
 - Oyun ilk açılışında 1.Oyuncu ve 2.Oyuncu ismi istenilmektedir.
 - Oyuna başlanıldığında sıra ile zar atılacak ve en büyük atan kim ise messagebox ile mesaj verilecek.
-- Temizle butonuna tıklanıldığı zaman skorlar temizlenmektedir
+- Temizle butonuna tıklanıldığı zaman skorlar temizlenmektedir.
 
 ----------------------------------------------------------------------------------------------------------
