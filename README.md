@@ -67,3 +67,7 @@ yüzde seçilirse program uyarı veriyor.
 ----------------------------------------------------------------------------------------------------------
 **7.Hafta**
 15.11.2022
+- Başlat butonuna basıldığı zaman timer aktif ediliyor ve listbox'a belirlenen süre aralığında veri ekliyor.
+- Bitir butonuna basıldığı zaman timer pasif hale getiriliyor.
+- timer1.Enabled=false=timer1.Stop()
+- timer1.Enabled=true=timer1.Start()

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\bin\Debug\SevenWeeks.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\bin\Debug\SevenWeeks.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\bin\Debug\SevenWeeks.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\SevenWeeks\SevenWeeks\obj\Debug\SevenWeeks.pdb
