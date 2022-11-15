@@ -33,6 +33,14 @@ namespace SevenWeeks
         private void timer1_Tick(object sender, EventArgs e)
         {
             listBox1.Items.Add("Cahit Can ÖZGEN");
+            if(progressBar1.Value==progressBar1.Maximum)
+            {
+                progressBar1.Value = 1;
+            }
+            else
+            {
+                progressBar1.Value = progressBar1.Value + 1;
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)

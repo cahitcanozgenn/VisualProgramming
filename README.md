@@ -71,3 +71,4 @@ yüzde seçilirse program uyarı veriyor.
 - Bitir butonuna basıldığı zaman timer pasif hale getiriliyor.
 - timer1.Enabled=false=timer1.Stop()
 - timer1.Enabled=true=timer1.Start()
+- Progres bar eklenildi. Progres bar timer ile ortak çalışmaktadır.
