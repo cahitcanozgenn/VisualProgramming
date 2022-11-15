@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\bin\Debug\ReverseImage.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\bin\Debug\ReverseImage.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\bin\Debug\ReverseImage.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\ReverseImage\ReverseImage\obj\Debug\ReverseImage.pdb
