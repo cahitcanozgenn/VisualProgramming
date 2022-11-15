@@ -55,7 +55,7 @@ namespace SevenWeeks
         {
             if (progressBar2.Value == progressBar2.Maximum)
             {
-                progressBar2.Value = 1;
+                progressBar2.Value = 10;
                 progressBar3.Value = progressBar3.Value + 10;
             }
             else
@@ -66,6 +66,8 @@ namespace SevenWeeks
             {
                 timer2.Stop();
                 MessageBox.Show("Yükleme Tamamlandı");
+                progressBar2.Value = 0;
+                progressBar3.Value = 0;
             }
         }
 
