@@ -72,3 +72,4 @@ yüzde seçilirse program uyarı veriyor.
 - timer1.Enabled=false=timer1.Stop()
 - timer1.Enabled=true=timer1.Start()
 - Progres bar eklenildi. Progres bar timer ile ortak çalışmaktadır.
+- 2 Adet Progres bar eklenildir. Başla butonuna basıldığı zaman birnci progres bar %100 olduğu zaman ikinci progres bar 10 artıyor. İkinci progres bar %100 olduğu zaman yüklenme tamamlandı diye mesaj veriyor.
