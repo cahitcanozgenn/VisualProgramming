@@ -75,3 +75,8 @@ yüzde seçilirse program uyarı veriyor.
 - 2 Adet Progres bar eklenildir. Başla butonuna basıldığı zaman birnci progres bar %100 olduğu zaman ikinci progres bar 10 artıyor. İkinci progres bar %100 olduğu zaman yüklenme tamamlandı diye mesaj veriyor.
 **ReverseImage**
 - Butona basıldığı zaman timer çalışıyor ve progres bar dolduğu zaman resimler yer değişiyor.
+
+**Lift (Asansör Projesi)**
+- Zemin Kat, 1.Kat, 2.Kat ve 3.Kat adında butonlar bulunmaktadır.
+- Hangi butona tıklarsan asansör o kata ilerliyor ve kata geldiği zaman yavaşlayarak duruyor.
+----------------------------------------------------------------------------------------------------------

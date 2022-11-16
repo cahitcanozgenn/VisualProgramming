@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\bin\Debug\lift.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\bin\Debug\lift.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\bin\Debug\lift.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\lift\lift\obj\Debug\lift.pdb
