@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\exercise\exercise\bin\Debug\exercise.exe.config
+C:\Users\Administrator\Desktop\exercise\exercise\bin\Debug\exercise.exe
+C:\Users\Administrator\Desktop\exercise\exercise\bin\Debug\exercise.pdb
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.Form1.resources
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.Properties.Resources.resources
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.exe
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.pdb
+C:\Users\Administrator\Desktop\exercise\exercise\obj\Debug\exercise.Form2.resources
