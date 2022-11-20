@@ -80,3 +80,5 @@ yüzde seçilirse program uyarı veriyor.
 - Zemin Kat, 1.Kat, 2.Kat ve 3.Kat adında butonlar bulunmaktadır.
 - Hangi butona tıklarsan asansör o kata ilerliyor ve kata geldiği zaman yavaşlayarak duruyor.
 ----------------------------------------------------------------------------------------------------------
+**8.Hafta**
+22.11.2022
