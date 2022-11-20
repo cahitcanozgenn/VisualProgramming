@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\odev\odev\bin\Debug\odev.exe.config
+C:\Users\Administrator\Desktop\odev\odev\bin\Debug\odev.exe
+C:\Users\Administrator\Desktop\odev\odev\bin\Debug\odev.pdb
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.exe
+C:\Users\Administrator\Desktop\odev\odev\obj\Debug\odev.pdb
