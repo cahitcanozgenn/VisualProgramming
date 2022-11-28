@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\bin\Debug\sinavoncesi.exe.config
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\bin\Debug\sinavoncesi.exe
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\bin\Debug\sinavoncesi.pdb
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.Form1.resources
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.exe
+C:\Users\Administrator\Desktop\sinavoncesi\sinavoncesi\obj\Debug\sinavoncesi.pdb
