@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\bin\Debug\AccessDeclarations.exe.config
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\bin\Debug\AccessDeclarations.exe
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\bin\Debug\AccessDeclarations.pdb
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.Form1.resources
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.exe
+C:\Users\Administrator\Desktop\AccessDeclarations\AccessDeclarations\obj\Debug\AccessDeclarations.pdb
