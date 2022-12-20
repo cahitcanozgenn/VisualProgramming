@@ -95,6 +95,10 @@ yüzde seçilirse program uyarı veriyor.
 **11.Hafta**
 13.12.2022
 - Metotlar işlenildi.
+- Metotlar kendi içerisinde ikiye ayrılır.
+1) Değer Döndüren Metotlar
+2) Değer Döndürmeyen Metotlar
+
 ----------------------------------------------------------------------------------------------------------
 **12.Hafta**
 20.12.2022
