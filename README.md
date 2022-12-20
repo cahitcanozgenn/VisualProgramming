@@ -96,9 +96,10 @@ yüzde seçilirse program uyarı veriyor.
 13.12.2022
 - Metotlar işlenildi.
 - Metotlar kendi içerisinde ikiye ayrılır.
-1) Değer Döndüren Metotlar
-2) Değer Döndürmeyen Metotlar
+1) Değer Döndüren Metotlar (Parametre Alan-Parametre Almayan)
+2) Değer Döndürmeyen Metotlar (Parametre Alan-Parametre Almayan)
 
+   **Erişim Belirleyiciler(Access Modifiers)**
 ----------------------------------------------------------------------------------------------------------
 **12.Hafta**
 20.12.2022
