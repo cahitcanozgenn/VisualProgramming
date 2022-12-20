@@ -100,6 +100,18 @@ yüzde seçilirse program uyarı veriyor.
 2) Değer Döndürmeyen Metotlar (Parametre Alan-Parametre Almayan)
 
    **Erişim Belirleyiciler(Access Modifiers)**
+      **Private(Özel)**
+        Bir değerin private olarak tanımlanması demek, o değişkene sadece kendi class’ı içinden ulaşılabileceği anlamına gelmektedir.
+      **Public(Genel)**
+        Bir değerin public olarak belirtilmesi; o değerin, kod içinde herhangi bir yerden erişilebilir durumda olmasını sağlamaktadır.
+      **Protected(Korunumlu)**
+        Kod içinde bir değerin protected olarak tanımlanması; o değere, bulunduğu class  ve ondan türetilen diğer sınıflar içinden erişilebilir olduğunu göstermektedir. Protected; bir anlamda, public ve private erişim belirleyicilerinin birleşimi olarak görülebilmektedir.
+      **Internal(İçsel)**
+        Internal olarak tanımlanan bir değer; aynı program içerisinden erişilebilir, fakat farklı bir program içerisinden erişilemez durumdadır.
+      **Protected Internal (İçsel Korunumlu)**
+        Protected internal olarak tanımlanmış değer, tanımlandığı class’ın içinden ve ondan türetilen sınıfların içinden erişilebilir durumdadır.
+       **Static**
+         İçinde buluduğu sınıftan nesne oluşturulmadan veya hiç bir nesneye referans olmadan kullanılabilen üyeler static olarak nitelendirilir. Metotlar ve alanlar staticolarak tanımlanabilir.
 ----------------------------------------------------------------------------------------------------------
 **12.Hafta**
 20.12.2022
