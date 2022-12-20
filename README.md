@@ -112,6 +112,7 @@ yüzde seçilirse program uyarı veriyor.
         Protected internal olarak tanımlanmış değer, tanımlandığı class’ın içinden ve ondan türetilen sınıfların içinden erişilebilir durumdadır.
        **Static**
          İçinde buluduğu sınıftan nesne oluşturulmadan veya hiç bir nesneye referans olmadan kullanılabilen üyeler static olarak nitelendirilir. Metotlar ve alanlar staticolarak tanımlanabilir.
+         
 ----------------------------------------------------------------------------------------------------------
 **12.Hafta**
 20.12.2022
