@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.pdb
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Form1.resources
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.exe
+C:\Users\Administrator\Desktop\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.pdb

@@ -120,3 +120,9 @@ yüzde seçilirse program uyarı veriyor.
 ----------------------------------------------------------------------------------------------------------
 **13.Hafta**
 27.12.2022
+- Switch-case yapısı kullanılarak textbox'a girilen sayıya göre messagebox olarak haftanın günlerini ekrana çıkartan program yapıldı.
+- While döngüsü kullanımı öğrenildi.
+- While döngüsü ile 0 ile 10 arasında rastgele sayı üretildi ve 5 sayısının kaçıncı üretmede bulunduğu uygulaması yapıldı.
+----------------------------------------------------------------------------------------------------------
+**13.Hafta Ödev**
+- For-While-Do/While-Foreach döngüleri ile ilgili örnek yapılacak.

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\while\while\bin\Debug\@while.exe.config
+C:\Users\Administrator\Desktop\while\while\bin\Debug\@while.exe
+C:\Users\Administrator\Desktop\while\while\bin\Debug\@while.pdb
+C:\Users\Administrator\Desktop\while\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\while\while\obj\Debug\while.Form1.resources
+C:\Users\Administrator\Desktop\while\while\obj\Debug\while.Properties.Resources.resources
+C:\Users\Administrator\Desktop\while\while\obj\Debug\while.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\while\while\obj\Debug\@while.exe
+C:\Users\Administrator\Desktop\while\while\obj\Debug\@while.pdb
