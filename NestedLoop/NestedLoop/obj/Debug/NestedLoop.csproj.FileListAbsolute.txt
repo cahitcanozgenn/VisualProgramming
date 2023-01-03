@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Form2.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Form3.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Form4.resources

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\bin\Debug\BasamakSayisi.exe.config
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\bin\Debug\BasamakSayisi.exe
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\bin\Debug\BasamakSayisi.pdb
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.Form1.resources
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.exe
+C:\Users\Administrator\Desktop\BasamakSayisi\BasamakSayisi\obj\Debug\BasamakSayisi.pdb

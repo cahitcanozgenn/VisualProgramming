@@ -126,3 +126,4 @@ yüzde seçilirse program uyarı veriyor.
 ----------------------------------------------------------------------------------------------------------
 **13.Hafta Ödev**
 - For-While-Do/While-Foreach döngüleri ile ilgili örnek yapılacak.
+- Askerlik Sorgulaması ve Basamak Sayısı Bulma Yapıldı.

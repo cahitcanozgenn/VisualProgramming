@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\bin\Debug\AskerlikSorgulama.exe.config
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\bin\Debug\AskerlikSorgulama.exe
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\bin\Debug\AskerlikSorgulama.pdb
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.Form1.resources
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.exe
+C:\Users\Administrator\Desktop\AskerlikSorgulama\AskerlikSorgulama\obj\Debug\AskerlikSorgulama.pdb
